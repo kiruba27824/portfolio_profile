@@ -335,7 +335,7 @@ section {
     border-radius: 20px;
     overflow: hidden;
     transition: var(--transition);
-    display: flex;
+    display: grid;
     flex-direction: column;
 }
 
