@@ -323,7 +323,7 @@ section {
     gap: 30px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 766px) {
     .projects-grid {
         grid-template-columns: 1fr;
     }
