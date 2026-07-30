@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Aspiring Python Full Stack Developer",
         "Python | Django | SQL",
         "Building Responsive Web Applications",
-        "Passionate Software Developer",
+        "Passionate Front-End Developer",
         "Open to Full-Time Opportunities"
     ];
 
