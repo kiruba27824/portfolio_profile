@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Python | Django | SQL",
         "Building Responsive Web Applications",
         "Passionate Python Full Stack Developer",
-        "Open to Full-Time Opportunities"
+        "Open to Full-Time Opportunities",
     ];
 
     let phraseIndex = 0;
