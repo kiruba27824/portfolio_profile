@@ -13,12 +13,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // 2. Typing Effect
     const typingElement = document.querySelector('.typing-text');
     const phrases = [
-        "Aspiring Python Full Stack Developer",
-        "Python | Django | SQL",
-        "Building Responsive Web Applications",
-        "Passionate Python Full Stack Developer",
-        "Open to Full-Time Opportunities",
-    ];
+    "Aspiring Python Full Stack Developer",
+    "Python | Django | SQL",
+    "Building Responsive Web Applications",
+    "Passionate Python Full Stack Developer",
+    "Open to Full-Time Opportunities"
+];
 
     let phraseIndex = 0;
     let charIndex = 0;
